@@ -1,0 +1,27 @@
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup e temporários do editor
+*.swp
+*.swo
+*~
+
+# Pastas de cache e ambiente virtual (se usar)
+.vscode/
+__pycache__/
+.env
+
+# Arquivos gerados por compiladores
+*.exe
+*.dll
+*.obj
+*.o
+
+# Documentos temporários e arquivos gerados
+*.log
+*.tmp
+*.bak
+
+# Arquivos do Microsoft Office temp
+~$*
