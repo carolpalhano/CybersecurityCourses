@@ -1,66 +1,73 @@
-# Google Cybersecurity Certificate 🛡️
+# 🛡️ Trilha de Estudos em Cibersegurança
 
-Este repositório documenta meu progresso e aprendizado no curso **[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)**, oferecido pelo Google através da Coursera.
-
-O curso tem como objetivo preparar iniciantes para cargos de nível inicial em cibersegurança, cobrindo desde fundamentos até práticas de segurança em nuvem, análise de riscos e resposta a incidentes.
+Este repositório documenta minha jornada de estudos para transição e atuação profissional na área de **Cibersegurança**, com foco no **Blue Team** (defesa). Ao longo do caminho, estudo fundamentos essenciais, ferramentas práticas, práticas de mercado e obtenho certificações reconhecidas.
 
 ---
 
-## 📚 Estrutura do Curso
+## 📚 Cursos Concluídos ou em Andamento
 
-O certificado é composto por 8 módulos:
+### 1. **[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)**
+- Plataforma: Coursera
+- Status: Em andamento
+- Conteúdo:
+  - Fundamentos da cibersegurança
+  - Ferramentas SIEM, SOAR, EDR
+  - Segurança em redes e sistemas
+  - Análise de riscos e resposta a incidentes
+- Certificação oficial ao final
 
-| Módulo | Nome do Curso                                                      | Status     |
-|--------|---------------------------------------------------------------------|------------|
-| 1      | Foundations of Cybersecurity                                        | ✅ Concluído |
-| 2      | Play It Safe: Manage Security Risks                                | 🔄 Em andamento |
-| 3      | Connect and Protect: Networks and Network Security                 | ⏳ Próximo |
-| 4      | Tools of the Trade: Linux and SQL                                  | ⏳ Próximo |
-| 5      | Assets, Threats, and Vulnerabilities                               | ⏳ Próximo |
-| 6      | Sound the Alarm: Detection and Response                            | ⏳ Próximo |
-| 7      | Automate Cybersecurity Tasks with Python                          | ⏳ Próximo |
-| 8      | Put It to Work: Prepare for Cybersecurity Jobs                     | ⏳ Próximo |
+### 2. **[Cisco Networking Academy – Introdução à Cibersegurança](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)**
+- Plataforma: Cisco NetAcad
+- Status: Concluído (Maio/2024)
+- Emblema obtido: ✅
+- Conteúdo:
+  - Conceitos básicos de segurança
+  - Ameaças comuns
+  - Caminhos profissionais em segurança
 
----
+### 3. **[Fortinet NSE 1 e 2 – Cybersecurity Awareness](https://training.fortinet.com/)**
+- Plataforma: Fortinet Training Institute
+- Status: Planejado
+- Conteúdo:
+  - Educação básica em cibersegurança
+  - Segurança digital para usuários finais
+  - Introdução à arquitetura de segurança Fortinet
 
-## ✍️ O que estou aprendendo
-
-- Fundamentos de segurança da informação
-- Princípios de confidencialidade, integridade e disponibilidade (CIA)
-- Riscos, ameaças e vulnerabilidades
-- Políticas de segurança, firewalls e controles de acesso
-- Redes, criptografia e segurança em nuvem
-- Linux, SQL e automação com Python
-- Ferramentas do Blue Team (SIEMs, antivírus, scanners)
-- Preparação para entrevistas e carreira em segurança cibernética
-
----
-
-## 🧠 Certificações Relacionadas
-
-O curso é apoiado pela **CompTIA** e prepara para a certificação **CompTIA Security+** (opcional, paga).
-
----
-
-## 📌 Objetivo Profissional
-
-Esta jornada faz parte da minha preparação para atuar como:
-
-- Analista de Segurança Júnior
-- Analista SOC (Security Operations Center)
-- Técnico de Cibersegurança
+### 4. **[Microsoft Cybersecurity Fundamentals (via LinkedIn Learning)](https://www.linkedin.com/learning/)**
+- Plataforma: LinkedIn Learning / Microsoft Learn
+- Status: Planejado
+- Conteúdo:
+  - Fundamentos de segurança na nuvem
+  - Proteção de identidades e dispositivos
+  - Compliance e defesa corporativa
 
 ---
 
-## 📁 Relatórios e Atividades
+## 🗂️ Estrutura dos Relatórios
 
-Durante os módulos, estarei publicando relatórios, resumos e anotações nesta pasta.
+Para cada curso, estou criando:
+- Relatório `.md` com anotações, insights e atividades práticas
+- Commits por módulo ou semana
+- Documentação de projetos hands-on (se aplicável)
+
+---
+
+## 🧰 Ferramentas Utilizadas
+
+- **GitHub** – Para versionamento e portfólio
+- **VS Code** – Para edição de relatórios e Markdown
+- **Coursera, Cisco NetAcad, Fortinet, Microsoft Learn** – Plataformas de estudo
+- **TryHackMe e Blue Team Labs (BTLO)** – (Planejado) Para prática hands-on
 
 ---
 
-## ✅ Progresso
+## 🎯 Objetivo
 
-Atualizado em: **07/08/2025**
+Montar um portfólio técnico e certificado para me posicionar no mercado como estagiária ou Analista júnior de Segurança da Informação, com foco em Blue Team.
 
 ---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
