@@ -1,0 +1,91 @@
+# 🛡️ Trilha de Estudos em Cibersegurança (Blue Team)
+
+Este repositório é dedicado à minha jornada de formação para atuar profissionalmente na área de **cibersegurança**, com foco em **Blue Team** (defesa). A trilha inclui cursos gratuitos e pagos, estruturados em etapas progressivas, visando construir uma base sólida e prática para o mercado de trabalho.
+
+---
+
+## 📌 Cursos da Trilha
+
+### 🟢 1. [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- **Plataforma:** Coursera  
+- **Status:** Em andamento (com dedicação exclusiva)  
+- **Carga horária:** ~170 horas  
+- **Conteúdo:**
+  - Fundamentos de cibersegurança  
+  - Redes e segurança de sistemas  
+  - Ferramentas: SIEM, SOAR, EDR  
+  - Análise de risco e resposta a incidentes  
+  - Investigação com Splunk  
+- Certificado profissional com apoio da CompTIA
+
+---
+
+### 🟢 2. [Cisco Networking Academy – Introdução à Cibersegurança](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
+- **Status:** Concluído (Maio/2024)  
+- **Plataforma:** Cisco NetAcad  
+- **Emblema:** Obtido ✅  
+- **Conteúdo:**
+  - Conceitos de cibersegurança  
+  - Ameaças comuns  
+  - Carreiras e áreas de atuação  
+
+---
+
+### 🔵 3. [Microsoft – Segurança, Conformidade e Identidade (SC-900)](https://learn.microsoft.com/pt-br/certifications/exams/sc-900/)
+- **Plataforma:** Microsoft Learn  
+- **Status:** Planejado  
+- **Objetivo:** Certificação SC-900  
+- **Conteúdo:**
+  - Fundamentos de segurança na nuvem Microsoft  
+  - Gerenciamento de identidade  
+  - Zero Trust, Azure AD, Defender  
+
+---
+
+### 🔵 4. [Fortinet NSE 1 e NSE 2 – Security Awareness](https://training.fortinet.com/)
+- **Plataforma:** Fortinet Training Institute  
+- **Status:** Planejado  
+- **Conteúdo:**
+  - Cultura de cibersegurança  
+  - Ameaças e proteção digital  
+  - Segurança corporativa  
+
+---
+
+### 🟣 5. [Blue Team Labs Online (BTLO)](https://blueteamlabs.online/)
+- **Plataforma:** BTLO  
+- **Status:** Planejado (prática prática futura)  
+- **Tipo:** Labs práticos em defesa cibernética  
+- **Conteúdo:**
+  - SIEM, resposta a incidentes, análise de logs  
+  - Simulação de ataques e defesa em tempo real  
+
+---
+
+## 📂 Organização dos Relatórios
+
+Cada curso possui (ou possuirá):
+- Relatórios em Markdown (`.md`) organizados por módulo  
+- Registro dos aprendizados e atividades práticas  
+- Commits semanais no repositório  
+
+---
+
+## 🛠️ Ferramentas utilizadas
+
+- **GitHub** – Repositório de relatórios e portfólio  
+- **VS Code** – Edição dos arquivos `.md`  
+- **Coursera, Cisco NetAcad, Microsoft, Fortinet** – Plataformas oficiais de estudo  
+- **BTLO, TryHackMe (futuro)** – Prática técnica com labs  
+
+---
+
+## 🎯 Objetivo
+
+Construir uma formação consistente em Cibersegurança e criar um portfólio público que demonstre minha evolução técnica, visando oportunidades como **estagiária** ou **analista júnior de segurança da informação**.
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
