@@ -1,0 +1,20 @@
+Como estruturar seus relatórios no GitHub para impressionar recrutadores
+Passo	Dica prática
+1. Crie um repositório novo	Nomeie algo como Cybersecurity-Reports ou SOC-Analyst-Portfolio
+2. Organize por pastas/temas	Separe pastas por tipo: Wireshark-Analysis, TryHackMe-Writeups, Incident-Reports, Cloud-Security
+3. Use arquivos Markdown (.md)	Relatórios bem escritos em Markdown ficam bonitos, fáceis de ler e até com links internos
+4. Inclua um README.md principal	Explique seu objetivo, as habilidades que está mostrando e um sumário dos relatórios
+5. Escreva relatórios claros e objetivos	Use tópicos, prints de tela, explicações técnicas e conclusões
+6. Adicione imagens e capturas de tela	Para análise de pacotes Wireshark, resultados de ferramentas, etc.
+7. Mantenha o repositório atualizado	Faça commits frequentes e com mensagens claras (Add TryHackMe room XYZ writeup)
+8. Adicione um arquivo LICENSE (MIT ou CC)	Isso mostra profissionalismo e que você entende direitos autorais
+
+Ferramentas que ajudam a criar bons relatórios:
+Visual Studio Code (editor grátis e leve)
+
+Markdown Preview (extensão do VSCode para visualizar .md)
+
+Snipping Tool / Lightshot para capturar telas
+
+GitHub Desktop para subir commits de forma simples (ou terminal git mesmo)
+
